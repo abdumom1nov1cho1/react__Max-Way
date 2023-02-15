@@ -1,0 +1,9 @@
+.h1_About{
+    margin: 15px 10px;
+}
+.img_About{
+    width: 90%;
+    height: 33vh;
+    border-radius: 10px;
+    margin: 20px 0;
+}

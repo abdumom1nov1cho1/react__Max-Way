@@ -1,0 +1,25 @@
+.icon{
+    justify-content: center;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.ggg{
+    display: flex;
+    gap: 30px;
+}
+ul li {
+    font-size: 19px;
+}
+.fff{
+    position: absolute;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    height: 22px;
+    background-color: red;
+    width: 22px;
+    border-radius: 30px;
+    margin-left: 270px;
+    top: 4px;
+}

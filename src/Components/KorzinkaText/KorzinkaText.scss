@@ -1,0 +1,101 @@
+.parentt{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin: auto;
+    gap: 30px;
+ }
+ .ddd{
+    text-align: center;
+    margin-top: 200px;
+    color: red;
+    font-style: 30px;
+ }
+ .card{
+    display: flex;
+    justify-content: space-between;
+ }
+ .jjj{
+    width: 30px;
+ }
+ .cardd{
+   
+     margin-top: 30px;
+     border-radius: 10px;
+     box-shadow: 0 0 15px 0.5px rgb(139, 139, 139);
+    
+     width: 1000px;
+     height: 280px
+ }
+.left{
+    display: flex;
+    gap: 20px;
+}
+ .img{
+     border-top-right-radius: 10px;
+     border-top-left-radius: 10px;
+     width: 300px;
+ }
+ .hh1{
+    font-size: 20px;
+ }
+ .obshi{
+    font-size: 22px;
+ }
+ .p{
+     font-size: 20px;
+     color: red;
+     font-weight: 700;
+ }
+ .h1{
+     font-size: 25px;
+     color: rgb(57, 57, 57);
+ }
+ .text{
+    padding-top: 50px;
+ }
+ .right{
+    display: flex;
+    justify-content: space-evenly;
+ }
+.obshi{
+    color: red;
+    text-align: center;
+}
+.zakaz{
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.oplata{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+aside{
+    justify-content: center;
+    display: flex;
+}
+.btnd
+{
+    border-radius: 20px;
+    width: 350px;
+    height: 400px;
+    background-color: rgb(227, 227, 227);
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    margin: 50px;
+    display: block;
+}
+.h11{
+    padding-top: 20px;
+    width: 80px;
+    border-radius: 70%;
+}
+.zakaz{
+    font-size: 12px;
+    border: none;
+    border-radius: 10px;
+}

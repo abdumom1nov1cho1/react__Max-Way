@@ -1,0 +1,38 @@
+.cardA {
+    width: 550px;
+    width: auto;
+    height: auto;
+    box-shadow: 0px -1px 8px 0px rgba(34, 60, 80, 0.2);
+    border-radius: 20px;
+    margin: 0;
+}  
+.card-text span 
+{
+   color: rgb(33, 184, 33);
+} 
+.card-line
+ {
+    border-bottom: 2px solid #b2acac;
+} 
+.card-text3 {
+    padding: 10px;
+}
+ .card-text2 {
+    padding: 10px;
+}
+.card-text2 p
+ {
+  color: gray;
+}
+.P_Filial{
+    margin-top: -10px;
+    margin: 0;
+}
+.P_Filial_Tel{
+    margin-top: -10px;
+    margin: 0;
+}
+.h2_Filials{
+    font-size: 18px;
+    font-weight: 700;
+}

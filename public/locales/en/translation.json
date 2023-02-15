@@ -1,0 +1,64 @@
+{
+    "navulli1":"Home",
+    "NavUlLi2":"About",
+    "NavUlLi3":"Filials",
+    "NavUlLi4":"Contact",
+    "NavUlLiInput":"Search",
+    "btns1":"🥤Maksibox",
+    "btns2":"🥪Klab-Sendvich",
+    "btns3":"🌯Lavash",
+    "btns4":"🌮Shurma",
+    "btns5":"🍱Donar-Kebab",
+    "btns6":"Shaurma Bagget",
+    "btns7":"🍔Бургеры",
+    "btns8":"🌭Хот-Дог",
+    "btns9":"🍟Snacks",
+    "btns10":"🥤Drinks",
+    "btns11":"🍰Deserts",
+    "btns12":"🥫Sous",
+    "btns13":"🍚Garnishes",
+
+    "h1":"🍟🍔🥤Max-box",
+    "h1-1":"🥪Sendvich",
+    "h1-2":"🌯Lavash",
+    "h1-3":"🌮Shaurma",
+    "h1-4":"🍔Burgers",
+    "h1-5":"🌭Hot-Dog",
+    
+    "price":"som",
+    "click":"Add to card",
+    "clickNone":"Remove from cart",
+
+
+    "h1_About":"About company",
+    "p_About":"The company was founded in February 2005 in Tashkent. On Today the company has 14 branches in Tashkent.",
+    "p_About_2":"The menu consists mainly of club sandwiches, hot dogs, burgers, lavash and donars. Our priorities are freshness and quality ingredients, variety of toppings, reasonable prices and attention to guests' requests.",
+    "p_About_3":"Every day, a large number of different people order from MaxWay. And we try to increase both the number of visitors and the number of branches. With every dish we cook, we refine the details. branded recipes and are looking for the perfect balance of price and quality, so that  continue to be your favorite brand.",
+    "p_About_4":"If suddenly you are faced with poor service or low quality of cooked food from our side, be sure to write us at @maxwaymasterfood_bot. We gladly accept as positive as well as negative feedback. Complaint of a guest is a gift, which gives us room to grow.",
+
+    "h4_Foot":"Filials",
+    "h4_Foot_2":"About",
+    "h4_Foot_3":"Contact",
+    "h4_Foot_4":"All rights reserved",
+
+
+    "h1_Contacts":"Filials",
+    "span":"Open until 03:00",
+    "p":"Uzbekistan, Tashkent, Altinkul street, 10",
+    "P_Filial":"Schedule",
+    "P_Filial_Tel":"Phone",
+    "P_Filial_Day":"Mon-Sun",
+
+
+
+    "h1_Contacts_":"Contacts",
+    "h5_cont":"Leave a comment or ask a question",
+    "mn":"Single call center",
+    "ddd":"Cart is Empty",
+    "hh1":"All Products",
+    "hh2":"Delivery",
+    "zakaz_btn":"Proceed to Checkout"
+
+
+
+}

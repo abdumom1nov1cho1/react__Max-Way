@@ -1,0 +1,32 @@
+.Frame{
+    border-radius: 0.75rem;
+    width: 17.9375rem;
+    padding: 2rem 0.8125rem 1rem 2rem;
+    background-color: hsl(203, 27%, 67%);
+    color: #fff;
+    margin: 0;
+   
+}
+.img_qr{
+    width: 100px; 
+    border-radius: 10px;
+}
+h1{
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    margin: 25px 0;
+    
+}
+.h4_cont{
+    font-size: 15px;
+}
+.h5_cont{
+    margin: 20px 0;
+}
+.Contactlar{
+    padding-bottom: 250px;
+}
+h4{
+    font-weight: 700;
+}

@@ -1,0 +1,29 @@
+
+ .btn1{
+    margin:30px 20px;
+    color: rgb(100, 99, 99);
+    text-decoration: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.75rem;
+    font-size: .975rem;
+    font-weight: 500;
+    height: 3rem;
+    padding: 0.875rem 1.5rem;
+    transition: .15s ease;
+    text-transform: capitalize;
+    white-space: nowrap;
+    background-color: transparent;
+    animation: style_fadeOut__5hp0u .4s ease forwards;
+}
+.btn1:hover{
+    color: rgb(135, 135, 57);
+    background-color: rgb(233, 234, 236);
+}
+.slider{
+    justify-content: center;
+    margin-top: 20px;
+
+}

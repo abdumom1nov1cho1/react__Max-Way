@@ -1,0 +1,41 @@
+.parentt{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin: auto;
+    gap: 30px;
+ }
+ .card{
+     margin-top: 10px;
+     border-radius: 10px;
+     box-shadow: 0 0 15px 0.5px rgb(233, 231, 231);
+     text-align: center;
+     align-items: center;
+     width: 300px;
+     height: 350px;
+ }
+ .maks{
+     margin-top: 30px;
+     color: rgb(48, 48, 48);
+     font-size: 40px;
+ }
+ .img{
+     border-top-right-radius: 10px;
+     border-top-left-radius: 10px;
+     width: 100%;
+ }
+ .btn{
+     width: 170px;
+     color: #fff;
+     height: 38px;
+     border-radius: 10px;
+ }
+ .p{
+     font-size: large;
+     color: red;
+     font-weight: 700;
+ }
+ .h1{
+     font-size: 20px;
+     color: rgb(57, 57, 57);
+ }
